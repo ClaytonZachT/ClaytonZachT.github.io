@@ -4,11 +4,14 @@ body {
 }
 .inner {
 	background-color: 4d5e16;
-	border-style: solid;
+	border: 2px solid;
+	height: 75%;
+	width: 75%;
 }
 .outer {
 	align-items: center;
 	background-color: 6b697b;
+	color: bfbfbf;
 	display: flex;
 	height: 50%;
 	justify-content: center;
