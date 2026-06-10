@@ -1,12 +1,16 @@
 body {
 	background-color: bfbfbf;
+	font: verdana;
 }
 .inner {
 	background-color: 4d5e16;
+	border-style: solid;
 }
 .outer {
 	align-items: center;
 	background-color: 6b697b;
 	display: flex;
+	height: 50%;
 	justify-content: center;
+	width: 50%;
 }
