@@ -1,12 +1,12 @@
 body {
 	align-items: center;
-	background-color: bfbfbf;
+	background-color: #bfbfbf;
 	font: verdana;
 }
 .inner {
-	background-color: 4d5e16;
+	background-color: #4d5e16;
 	border: 2px solid;
-	color: 000000;
+	color: #000000;
 	font-size: 20px;
 	height: 75%;
 	margin: 3%;
@@ -14,16 +14,17 @@ body {
 	width: 75%;
 }
 .outer {
-	background-color: 6b697b;
+	background-color: #6b697b;
 	border-radius: 25px;
-	color: bfbfbf;
+	color: #bfbfbf;
 	display: flex;
 	height: 50%;
 	justify-content: center;
 	width: 50%;
 }
 .blue-line {
-	color: 070050;
+	border-radius: 25px;
+	background-color: #070050; /* #791451 for pink*/
 	height: 3%;
-	width: 20%
+	width: 20%;
 }
