@@ -2,8 +2,10 @@ body {
 	background-color: bfbfbf;
 }
 .inner {
+	color: red;
 	background-color: 4d5e16;
 }
 .outer {
+	color: blue;
 	background-color: 6b697b;
 }
