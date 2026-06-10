@@ -2,10 +2,11 @@ body {
 	background-color: bfbfbf;
 }
 .inner {
-	color: red;
 	background-color: 4d5e16;
 }
 .outer {
-	color: blue;
+	align-items: center;
 	background-color: 6b697b;
+	display: flex;
+	justify-content: center;
 }
