@@ -1,7 +1,7 @@
 body {
 	align-items: center;
 	background-color: #bfbfbf;
-	font: verdana;
+	font: arial;
 }
 .inner {
 	background-color: #4d5e16;
@@ -26,13 +26,13 @@ body {
 	background-color: #070050;
 	border-color: #070050;
 	border-radius: 25px;
-	height: 1%;
+	height: 2%;
 	width: 20%;
 }
 .pink-line {
 	background-color: #791451;
 	border-color: #791451;
 	border-radius: 25px;
-	height: 1%;
+	height: 2%;
 	width: 20%;
 }
