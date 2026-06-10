@@ -23,8 +23,16 @@ body {
 	width: 50%;
 }
 .blue-line {
+	background-color: #070050;
+	border-color: #070050;
 	border-radius: 25px;
-	background-color: #070050; /* #791451 for pink*/
-	height: 3%;
+	height: 1%;
+	width: 20%;
+}
+.pink-line {
+	background-color: #791451;
+	border-color: #791451;
+	border-radius: 25px;
+	height: 1%;
 	width: 20%;
 }
