@@ -42,6 +42,8 @@ h1 {
 	width: 50%;
 }
 .outer-sidebar {
+	align-items: center;
+	display: flex;
 	justify-content: center;
 }
 .blue-line {
